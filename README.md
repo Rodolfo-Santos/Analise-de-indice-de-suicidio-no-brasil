@@ -5,9 +5,6 @@ A análise tem como fundamento um conjunto de dados compilados encontrados neste
 
 ## Project setup
 ```
-pip install jupyterlab
-```
-```
 pip install notebook
 ```
 
